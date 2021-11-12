@@ -1,0 +1,70 @@
+
+
+2017.07.25 10:24:25 (Tue)------------Start of Session-----------------
+Blat v3.1.2 (build : Dec 27 2013 14:33:12)
+32-bit Windows, Full, Unicode
+Blat saw and processed these options, and found fault with the last one...
+    -body Test msg from Vertrax...
+    -to
+Not enough arguments supplied for option: -to
+2017.07.25 10:24:25 (Tue)-------------End of Session------------------
+
+2017.07.25 10:25:06 (Tue)------------Start of Session-----------------
+Blat v3.1.2 (build : Dec 27 2013 14:33:12)
+32-bit Windows, Full, Unicode
+Blat saw and processed these options, and found fault with the last one...
+    -body Test msg from Vertrax...
+    -to
+Not enough arguments supplied for option: -to
+2017.07.25 10:25:06 (Tue)-------------End of Session------------------
+
+2017.07.25 10:26:34 (Tue)------------Start of Session-----------------
+Blat v3.1.2 (build : Dec 27 2013 14:33:12)
+32-bit Windows, Full, Unicode
+2017.07.25 10:26:34 (Tue): <<<getline<<< 220 F-BOX.vertrax.loc Microsoft ESMTP MAIL Service, Version: 6.0.3790.4675 ready at  Tue, 25 Jul 2017 10:26:34 -0400 
+2017.07.25 10:26:34 (Tue): >>>putline>>> EHLO f-box
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-F-BOX.vertrax.loc Hello [172.16.42.52]
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-TURN
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-SIZE 2097152
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-ETRN
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-PIPELINING
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-DSN
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-ENHANCEDSTATUSCODES
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-8bitmime
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-BINARYMIME
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-CHUNKING
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250-VRFY
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250 OK
+2017.07.25 10:26:34 (Tue): Sending stdin.txt to rljunggren@msn.com
+2017.07.25 10:26:34 (Tue): Subject: Test Email from Vertrax
+2017.07.25 10:26:34 (Tue): Login name is rljunggren@vertrax.com
+2017.07.25 10:26:34 (Tue): >>>putline>>> MAIL FROM:<rljunggren@vertrax.com>
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250 2.1.0 rljunggren@vertrax.com....Sender OK
+2017.07.25 10:26:34 (Tue): >>>putline>>> RCPT TO:<rljunggren@msn.com>
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250 2.1.5 rljunggren@msn.com 
+2017.07.25 10:26:34 (Tue): >>>putline>>> DATA
+2017.07.25 10:26:34 (Tue): <<<getline<<< 354 Start mail input; end with <CRLF>.<CRLF>
+2017.07.25 10:26:34 (Tue): <<<getline<<< 250 2.6.0  <01d30552$Blat.v3.1.2$04b24348$f081e2f759f@f-box> Queued mail for delivery
+2017.07.25 10:26:34 (Tue): >>>putline>>> QUIT
+2017.07.25 10:26:34 (Tue): <<<getline<<< 221 2.0.0 F-BOX.vertrax.loc Service closing transmission channel
+2017.07.25 10:26:34 (Tue)-------------End of Session------------------
+
+2019.01.03 23:29:10 (Thu)------------Start of Session-----------------
+Blat v3.1.2 (build : Dec 27 2013 14:33:12)
+32-bit Windows, Full, Unicode
+Blat saw and processed these options, and was confused by the last one...
+    -body Test msg from Vertrax...
+    -to rljunggren@msn.com;
+    rljunggren79@gmail.com
+Do not understand argument: rljunggren79@gmail.com
+2019.01.03 23:29:10 (Thu)-------------End of Session------------------
+
+2019.01.07 11:16:58 (Mon)------------Start of Session-----------------
+Blat v3.1.2 (build : Dec 27 2013 14:33:12)
+32-bit Windows, Full, Unicode
+Blat saw and processed these options, and was confused by the last one...
+    -body Test msg from Vertrax...
+    -to rljunggren@msn.com;
+    rljunggren79@gmail.com
+Do not understand argument: rljunggren79@gmail.com
+2019.01.07 11:16:58 (Mon)-------------End of Session------------------

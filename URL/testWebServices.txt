@@ -1,0 +1,11 @@
+http://172.16.42.64:8084/SmartConnect/commtest3.html
+http://localhost/SmartConnect/commtest3.html
+http://172.16.42.49/SmartConnect/commtest3.html
+http://172.16.42.35/SmartConnect/commtest3.html
+http://172.16.42.171/SmartConnect/commtest3.html
+http://172.16.42.173/WellSite/commtest3.html
+http://172.16.42.172/WellSite/commtest3.html
+http://172.16.42.172/WellSite/web/connectiontest/paisan.html
+http://paisan-db:4848
+
+

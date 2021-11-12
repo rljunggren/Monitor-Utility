@@ -1,0 +1,3 @@
+http://paisan.vertrax.com/WellSite/web/connectiontest/paisan.html
+http://paisan.vertrax.com:80/WellSite/index.html
+http://paisan.vertrax.com/WellSite/web/connectiontest/homeplate1.html

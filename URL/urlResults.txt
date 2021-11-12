@@ -1,0 +1,9 @@
+:// is UP.
+:// is UP.
+:// is UP.
+:// is UP.
+:// is UP.
+:// is DOWN. undefined.  Link: http://172.16.42.173/WellSite/commtest3.html
+:// is DOWN. undefined.  Link: http://172.16.42.172/WellSite/commtest3.html
+:// is UP.
+:// is DOWN. undefined.  Link: http://paisan-db:4848
